@@ -1,7 +1,7 @@
 {
   "name": "jasmime-and-sequelize.js",
   "version": "1.0.0",
-  "description": "\"Sample project to use Sequelize and Jasmine.\"",
+  "description": "Sample project to use Sequelize and Jasmine.",
   "main": "index.js",
   "scripts": {
     "test": "jasmine-node spec"
